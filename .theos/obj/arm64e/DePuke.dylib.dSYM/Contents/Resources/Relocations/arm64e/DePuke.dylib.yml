@@ -1,0 +1,111 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/nguyendat/DePuke/.theos/obj/arm64e/DePuke.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: __logosLocalCtor_432c7a00, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x64 }
+  - { offset: 0xA3, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$SpringBoard$applicationDidFinishLaunching$', symObjAddr: 0x6F68, symBinAddr: 0x10E10, symSize: 0x0 }
+  - { offset: 0x20BE, size: 0x8, addend: 0x0, symName: __logosLocalCtor_432c7a00, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x64 }
+  - { offset: 0x21C0, size: 0x8, addend: 0x0, symName: _ReloadPreferencesNotificationCallback, symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x14 }
+  - { offset: 0x2210, size: 0x8, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x78, symBinAddr: 0x4078, symSize: 0x50 }
+  - { offset: 0x22A2, size: 0x8, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x78, symBinAddr: 0x4078, symSize: 0x50 }
+  - { offset: 0x22E5, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x40 }
+  - { offset: 0x231D, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x40 }
+  - { offset: 0x2384, size: 0x8, addend: 0x0, symName: ___ReloadPreferencesNotificationCallback_block_invoke, symObjAddr: 0x108, symBinAddr: 0x4108, symSize: 0x4C }
+  - { offset: 0x238E, size: 0x8, addend: 0x0, symName: ___ReloadPreferencesNotificationCallback_block_invoke, symObjAddr: 0x108, symBinAddr: 0x4108, symSize: 0x4C }
+  - { offset: 0x23B3, size: 0x8, addend: 0x0, symName: '____logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$_block_invoke', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x6C }
+  - { offset: 0x24C2, size: 0x8, addend: 0x0, symName: '+[DePukeManager sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x41C0, symSize: 0x44 }
+  - { offset: 0x252D, size: 0x8, addend: 0x0, symName: '+[DePukeManager sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x41C0, symSize: 0x44 }
+  - { offset: 0x2556, size: 0x8, addend: 0x0, symName: _sharedInstance.instance, symObjAddr: 0xD6B8, symBinAddr: 0x10E18, symSize: 0x0 }
+  - { offset: 0x256B, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xD6C0, symBinAddr: 0x10E20, symSize: 0x0 }
+  - { offset: 0x4E63, size: 0x8, addend: 0x0, symName: '+[DePukeManager sharedInstance].cold.1', symObjAddr: 0x129C, symBinAddr: 0x6610, symSize: 0x14 }
+  - { offset: 0x4E7E, size: 0x8, addend: 0x0, symName: '+[DePukeManager sharedInstance].cold.1', symObjAddr: 0x129C, symBinAddr: 0x6610, symSize: 0x14 }
+  - { offset: 0x4E8F, size: 0x8, addend: 0x0, symName: '___31+[DePukeManager sharedInstance]_block_invoke', symObjAddr: 0x44, symBinAddr: 0x4204, symSize: 0x40 }
+  - { offset: 0x4EB4, size: 0x8, addend: 0x0, symName: '-[DePukeManager init]', symObjAddr: 0x84, symBinAddr: 0x4244, symSize: 0x11C }
+  - { offset: 0x4EE8, size: 0x8, addend: 0x0, symName: '-[DePukeManager setupOverlay]', symObjAddr: 0x1A0, symBinAddr: 0x4360, symSize: 0x300 }
+  - { offset: 0x4FB3, size: 0x8, addend: 0x0, symName: '-[DePukeManager loadPreferences]', symObjAddr: 0x4A0, symBinAddr: 0x4660, symSize: 0x3F4 }
+  - { offset: 0x517D, size: 0x8, addend: 0x0, symName: '-[DePukeManager configureActivityTracking]', symObjAddr: 0x894, symBinAddr: 0x4A54, symSize: 0x13C }
+  - { offset: 0x51AD, size: 0x8, addend: 0x0, symName: '___42-[DePukeManager configureActivityTracking]_block_invoke', symObjAddr: 0x9D0, symBinAddr: 0x4B90, symSize: 0xA4 }
+  - { offset: 0x5207, size: 0x8, addend: 0x0, symName: '___42-[DePukeManager configureActivityTracking]_block_invoke_2', symObjAddr: 0xA74, symBinAddr: 0x4C34, symSize: 0x48 }
+  - { offset: 0x522C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0xABC, symBinAddr: 0x4C7C, symSize: 0x3C }
+  - { offset: 0x5252, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0xAF8, symBinAddr: 0x4CB8, symSize: 0x3C }
+  - { offset: 0x526F, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0xB34, symBinAddr: 0x4CF4, symSize: 0x8 }
+  - { offset: 0x5293, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0xB3C, symBinAddr: 0x4CFC, symSize: 0x8 }
+  - { offset: 0x52B0, size: 0x8, addend: 0x0, symName: '-[DePukeManager updateOverlayVisibility]', symObjAddr: 0xB44, symBinAddr: 0x4D04, symSize: 0x150 }
+  - { offset: 0x52EF, size: 0x8, addend: 0x0, symName: '-[DePukeManager startMotionUpdates]', symObjAddr: 0xC94, symBinAddr: 0x4E54, symSize: 0x1B4 }
+  - { offset: 0x5364, size: 0x8, addend: 0x0, symName: '-[DePukeManager stopMotionUpdates]', symObjAddr: 0xE48, symBinAddr: 0x5008, symSize: 0xB4 }
+  - { offset: 0x5394, size: 0x8, addend: 0x0, symName: '-[DePukeManager onDisplayLinkTick:]', symObjAddr: 0xEFC, symBinAddr: 0x50BC, symSize: 0x1D0 }
+  - { offset: 0x5585, size: 0x8, addend: 0x0, symName: '-[DePukeManager dealloc]', symObjAddr: 0x10CC, symBinAddr: 0x528C, symSize: 0x54 }
+  - { offset: 0x55B6, size: 0x8, addend: 0x0, symName: '-[DePukeManager overlayWindow]', symObjAddr: 0x1120, symBinAddr: 0x52E0, symSize: 0x8 }
+  - { offset: 0x55EA, size: 0x8, addend: 0x0, symName: '-[DePukeManager setOverlayWindow:]', symObjAddr: 0x1128, symBinAddr: 0x52E8, symSize: 0xC }
+  - { offset: 0x5627, size: 0x8, addend: 0x0, symName: '-[DePukeManager enabled]', symObjAddr: 0x1134, symBinAddr: 0x52F4, symSize: 0x8 }
+  - { offset: 0x565B, size: 0x8, addend: 0x0, symName: '-[DePukeManager setEnabled:]', symObjAddr: 0x113C, symBinAddr: 0x52FC, symSize: 0x8 }
+  - { offset: 0x5692, size: 0x8, addend: 0x0, symName: '-[DePukeManager sensitivity]', symObjAddr: 0x1144, symBinAddr: 0x5304, symSize: 0x8 }
+  - { offset: 0x56C4, size: 0x8, addend: 0x0, symName: '-[DePukeManager setSensitivity:]', symObjAddr: 0x114C, symBinAddr: 0x530C, symSize: 0x8 }
+  - { offset: 0x56FE, size: 0x8, addend: 0x0, symName: '-[DePukeManager dotSize]', symObjAddr: 0x1154, symBinAddr: 0x5314, symSize: 0x8 }
+  - { offset: 0x5730, size: 0x8, addend: 0x0, symName: '-[DePukeManager setDotSize:]', symObjAddr: 0x115C, symBinAddr: 0x531C, symSize: 0x8 }
+  - { offset: 0x576A, size: 0x8, addend: 0x0, symName: '-[DePukeManager dotCount]', symObjAddr: 0x1164, symBinAddr: 0x5324, symSize: 0x8 }
+  - { offset: 0x579E, size: 0x8, addend: 0x0, symName: '-[DePukeManager setDotCount:]', symObjAddr: 0x116C, symBinAddr: 0x532C, symSize: 0x8 }
+  - { offset: 0x57D7, size: 0x8, addend: 0x0, symName: '-[DePukeManager dotAlpha]', symObjAddr: 0x1174, symBinAddr: 0x5334, symSize: 0x8 }
+  - { offset: 0x5809, size: 0x8, addend: 0x0, symName: '-[DePukeManager setDotAlpha:]', symObjAddr: 0x117C, symBinAddr: 0x533C, symSize: 0x8 }
+  - { offset: 0x5843, size: 0x8, addend: 0x0, symName: '-[DePukeManager smoothingAlpha]', symObjAddr: 0x1184, symBinAddr: 0x5344, symSize: 0x8 }
+  - { offset: 0x5875, size: 0x8, addend: 0x0, symName: '-[DePukeManager setSmoothingAlpha:]', symObjAddr: 0x118C, symBinAddr: 0x534C, symSize: 0x8 }
+  - { offset: 0x58AF, size: 0x8, addend: 0x0, symName: '-[DePukeManager maxOffset]', symObjAddr: 0x1194, symBinAddr: 0x5354, symSize: 0x8 }
+  - { offset: 0x58E1, size: 0x8, addend: 0x0, symName: '-[DePukeManager setMaxOffset:]', symObjAddr: 0x119C, symBinAddr: 0x535C, symSize: 0x8 }
+  - { offset: 0x591B, size: 0x8, addend: 0x0, symName: '-[DePukeManager autoDetect]', symObjAddr: 0x11A4, symBinAddr: 0x5364, symSize: 0x8 }
+  - { offset: 0x594F, size: 0x8, addend: 0x0, symName: '-[DePukeManager setAutoDetect:]', symObjAddr: 0x11AC, symBinAddr: 0x536C, symSize: 0x8 }
+  - { offset: 0x5986, size: 0x8, addend: 0x0, symName: '-[DePukeManager themeMode]', symObjAddr: 0x11B4, symBinAddr: 0x5374, symSize: 0x8 }
+  - { offset: 0x59BA, size: 0x8, addend: 0x0, symName: '-[DePukeManager setThemeMode:]', symObjAddr: 0x11BC, symBinAddr: 0x537C, symSize: 0x8 }
+  - { offset: 0x59F3, size: 0x8, addend: 0x0, symName: '-[DePukeManager motionManager]', symObjAddr: 0x11C4, symBinAddr: 0x5384, symSize: 0x8 }
+  - { offset: 0x5A27, size: 0x8, addend: 0x0, symName: '-[DePukeManager setMotionManager:]', symObjAddr: 0x11CC, symBinAddr: 0x538C, symSize: 0xC }
+  - { offset: 0x5A64, size: 0x8, addend: 0x0, symName: '-[DePukeManager activityManager]', symObjAddr: 0x11D8, symBinAddr: 0x5398, symSize: 0x8 }
+  - { offset: 0x5A98, size: 0x8, addend: 0x0, symName: '-[DePukeManager setActivityManager:]', symObjAddr: 0x11E0, symBinAddr: 0x53A0, symSize: 0xC }
+  - { offset: 0x5AD5, size: 0x8, addend: 0x0, symName: '-[DePukeManager activityQueue]', symObjAddr: 0x11EC, symBinAddr: 0x53AC, symSize: 0x8 }
+  - { offset: 0x5B09, size: 0x8, addend: 0x0, symName: '-[DePukeManager setActivityQueue:]', symObjAddr: 0x11F4, symBinAddr: 0x53B4, symSize: 0xC }
+  - { offset: 0x5B46, size: 0x8, addend: 0x0, symName: '-[DePukeManager displayLink]', symObjAddr: 0x1200, symBinAddr: 0x53C0, symSize: 0x8 }
+  - { offset: 0x5B7A, size: 0x8, addend: 0x0, symName: '-[DePukeManager setDisplayLink:]', symObjAddr: 0x1208, symBinAddr: 0x53C8, symSize: 0xC }
+  - { offset: 0x5BB7, size: 0x8, addend: 0x0, symName: '-[DePukeManager isAutomotive]', symObjAddr: 0x1214, symBinAddr: 0x53D4, symSize: 0x8 }
+  - { offset: 0x5BEB, size: 0x8, addend: 0x0, symName: '-[DePukeManager setIsAutomotive:]', symObjAddr: 0x121C, symBinAddr: 0x53DC, symSize: 0x8 }
+  - { offset: 0x5C22, size: 0x8, addend: 0x0, symName: '-[DePukeManager isUpdatingMotion]', symObjAddr: 0x1224, symBinAddr: 0x53E4, symSize: 0x8 }
+  - { offset: 0x5C56, size: 0x8, addend: 0x0, symName: '-[DePukeManager setIsUpdatingMotion:]', symObjAddr: 0x122C, symBinAddr: 0x53EC, symSize: 0x8 }
+  - { offset: 0x5C8D, size: 0x8, addend: 0x0, symName: '-[DePukeManager .cxx_destruct]', symObjAddr: 0x1234, symBinAddr: 0x53F4, symSize: 0x68 }
+  - { offset: 0x5F02, size: 0x8, addend: 0x0, symName: '-[DePukeDotView initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0x545C, symSize: 0x1F8 }
+  - { offset: 0x7FA9, size: 0x8, addend: 0x0, symName: '-[DePukeDotView initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0x545C, symSize: 0x1F8 }
+  - { offset: 0x7FE8, size: 0x8, addend: 0x0, symName: '-[DePukeDotView layoutSubviews]', symObjAddr: 0x1F8, symBinAddr: 0x5654, symSize: 0x80 }
+  - { offset: 0x8018, size: 0x8, addend: 0x0, symName: '-[DePukeDotView applyTheme:alpha:]', symObjAddr: 0x278, symBinAddr: 0x56D4, symSize: 0x1D0 }
+  - { offset: 0x8066, size: 0x8, addend: 0x0, symName: '-[DePukeDotView baseCenter]', symObjAddr: 0x448, symBinAddr: 0x58A4, symSize: 0x14 }
+  - { offset: 0x8098, size: 0x8, addend: 0x0, symName: '-[DePukeDotView setBaseCenter:]', symObjAddr: 0x45C, symBinAddr: 0x58B8, symSize: 0x14 }
+  - { offset: 0x80D3, size: 0x8, addend: 0x0, symName: '-[DePukeDotView edgePlacement]', symObjAddr: 0x470, symBinAddr: 0x58CC, symSize: 0x10 }
+  - { offset: 0x8107, size: 0x8, addend: 0x0, symName: '-[DePukeDotView setEdgePlacement:]', symObjAddr: 0x480, symBinAddr: 0x58DC, symSize: 0x10 }
+  - { offset: 0x8140, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController initWithOverlayWindow:]', symObjAddr: 0x490, symBinAddr: 0x58EC, symSize: 0x78 }
+  - { offset: 0x8183, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController loadView]', symObjAddr: 0x508, symBinAddr: 0x5964, symSize: 0xCC }
+  - { offset: 0x81C2, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController shouldAutorotate]', symObjAddr: 0x5D4, symBinAddr: 0x5A30, symSize: 0x8 }
+  - { offset: 0x81F2, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController supportedInterfaceOrientations]', symObjAddr: 0x5DC, symBinAddr: 0x5A38, symSize: 0x8 }
+  - { offset: 0x8222, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController prefersStatusBarHidden]', symObjAddr: 0x5E4, symBinAddr: 0x5A40, symSize: 0x8 }
+  - { offset: 0x8252, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController viewWillTransitionToSize:withTransitionCoordinator:]', symObjAddr: 0x5EC, symBinAddr: 0x5A48, symSize: 0x10C }
+  - { offset: 0x829C, size: 0x8, addend: 0x0, symName: '___82-[DePukeOverlayViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke', symObjAddr: 0x6F8, symBinAddr: 0x5B54, symSize: 0x48 }
+  - { offset: 0x82CC, size: 0x8, addend: 0x0, symName: '___82-[DePukeOverlayViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke.28', symObjAddr: 0x750, symBinAddr: 0x5B9C, symSize: 0x48 }
+  - { offset: 0x82FC, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController overlayWindow]', symObjAddr: 0x798, symBinAddr: 0x5BE4, symSize: 0x34 }
+  - { offset: 0x8330, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController setOverlayWindow:]', symObjAddr: 0x7CC, symBinAddr: 0x5C18, symSize: 0x14 }
+  - { offset: 0x836D, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayViewController .cxx_destruct]', symObjAddr: 0x7E0, symBinAddr: 0x5C2C, symSize: 0x10 }
+  - { offset: 0x839D, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow initWithWindowScene:]', symObjAddr: 0x7F0, symBinAddr: 0x5C3C, symSize: 0x1E4 }
+  - { offset: 0x83E0, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow hitTest:withEvent:]', symObjAddr: 0x9D4, symBinAddr: 0x5E20, symSize: 0x8 }
+  - { offset: 0x8426, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow _canBecomeKeyWindow]', symObjAddr: 0x9DC, symBinAddr: 0x5E28, symSize: 0x8 }
+  - { offset: 0x8456, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow canBecomeKeyWindow]', symObjAddr: 0x9E4, symBinAddr: 0x5E30, symSize: 0x8 }
+  - { offset: 0x8486, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow _canAffectStatusBarAppearance]', symObjAddr: 0x9EC, symBinAddr: 0x5E38, symSize: 0x8 }
+  - { offset: 0x84B6, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow configureDotsWithCount:size:alpha:themeMode:]', symObjAddr: 0x9F4, symBinAddr: 0x5E40, symSize: 0x244 }
+  - { offset: 0x85B6, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow relayoutDots]', symObjAddr: 0xC38, symBinAddr: 0x6084, symSize: 0x344 }
+  - { offset: 0x86E9, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow applyMotionOffset:]', symObjAddr: 0xF7C, symBinAddr: 0x63C8, symSize: 0x12C }
+  - { offset: 0x87C3, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow dotViews]', symObjAddr: 0x10A8, symBinAddr: 0x64F4, symSize: 0x10 }
+  - { offset: 0x87F7, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow setDotViews:]', symObjAddr: 0x10B8, symBinAddr: 0x6504, symSize: 0x14 }
+  - { offset: 0x8834, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow dotSize]', symObjAddr: 0x10CC, symBinAddr: 0x6518, symSize: 0x10 }
+  - { offset: 0x8866, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow setDotSize:]', symObjAddr: 0x10DC, symBinAddr: 0x6528, symSize: 0x10 }
+  - { offset: 0x88A0, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow dotCount]', symObjAddr: 0x10EC, symBinAddr: 0x6538, symSize: 0x10 }
+  - { offset: 0x88D4, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow setDotCount:]', symObjAddr: 0x10FC, symBinAddr: 0x6548, symSize: 0x10 }
+  - { offset: 0x890D, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow dotAlpha]', symObjAddr: 0x110C, symBinAddr: 0x6558, symSize: 0x10 }
+  - { offset: 0x893F, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow setDotAlpha:]', symObjAddr: 0x111C, symBinAddr: 0x6568, symSize: 0x10 }
+  - { offset: 0x8979, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow overlayRootVC]', symObjAddr: 0x112C, symBinAddr: 0x6578, symSize: 0x10 }
+  - { offset: 0x89AD, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow setOverlayRootVC:]', symObjAddr: 0x113C, symBinAddr: 0x6588, symSize: 0x14 }
+  - { offset: 0x89EA, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow currentThemeMode]', symObjAddr: 0x1150, symBinAddr: 0x659C, symSize: 0x10 }
+  - { offset: 0x8A1E, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow setCurrentThemeMode:]', symObjAddr: 0x1160, symBinAddr: 0x65AC, symSize: 0x10 }
+  - { offset: 0x8A57, size: 0x8, addend: 0x0, symName: '-[DePukeOverlayWindow .cxx_destruct]', symObjAddr: 0x1170, symBinAddr: 0x65BC, symSize: 0x54 }
+...

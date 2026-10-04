@@ -1,0 +1,19 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/nguyendat/DePuke/.theos/obj/arm64e/DePukeCC.bundle/DePukeCC'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: _DePukeCCInit, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x40 }
+  - { offset: 0x178A, size: 0x8, addend: 0x0, symName: _DePukeCCInit, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x40 }
+  - { offset: 0x17B6, size: 0x8, addend: 0x0, symName: '-[DePukeCC init]', symObjAddr: 0x40, symBinAddr: 0x4040, symSize: 0x78 }
+  - { offset: 0x17DC, size: 0x8, addend: 0x0, symName: '-[DePukeCC init]', symObjAddr: 0x40, symBinAddr: 0x4040, symSize: 0x78 }
+  - { offset: 0x18DC, size: 0x8, addend: 0x0, symName: _CCReloadPreferencesNotificationCallback, symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x9C }
+  - { offset: 0x19DA, size: 0x8, addend: 0x0, symName: '-[DePukeCC iconGlyph]', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0xA8 }
+  - { offset: 0x1A28, size: 0x8, addend: 0x0, symName: '-[DePukeCC selectedIconGlyph]', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x4 }
+  - { offset: 0x1A5A, size: 0x8, addend: 0x0, symName: '-[DePukeCC selectedColor]', symObjAddr: 0x200, symBinAddr: 0x4200, symSize: 0x24 }
+  - { offset: 0x1AD2, size: 0x8, addend: 0x0, symName: '-[DePukeCC isSelected]', symObjAddr: 0x224, symBinAddr: 0x4224, symSize: 0xF0 }
+  - { offset: 0x1C33, size: 0x8, addend: 0x0, symName: '-[DePukeCC setSelected:]', symObjAddr: 0x314, symBinAddr: 0x4314, symSize: 0xC4 }
+  - { offset: 0x1D3A, size: 0x8, addend: 0x0, symName: '-[DePukeCC dealloc]', symObjAddr: 0x3D8, symBinAddr: 0x43D8, symSize: 0x5C }
+  - { offset: 0x1DAC, size: 0x8, addend: 0x0, symName: ___CCReloadPreferencesNotificationCallback_block_invoke, symObjAddr: 0x434, symBinAddr: 0x4434, symSize: 0x8 }
+  - { offset: 0x1DD1, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x43C, symBinAddr: 0x443C, symSize: 0x8 }
+  - { offset: 0x1DF5, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x444, symBinAddr: 0x4444, symSize: 0x8 }
+...

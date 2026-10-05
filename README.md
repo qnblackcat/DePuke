@@ -59,7 +59,6 @@ DePuke counters this with inverted visual inertia:
 ### Requirements
 - A jailbroken device running **iOS 15.0 – 17.0** (tested working on iOS 17.0).
 - Modern Rootless jailbreak / environment: **Dopamine**, **Palera1n (Rootless)**, **Bootstrap / Serotonin**, or **XinaA15 v2**.
-- **RootHide** (Dopamine RootHide / Bootstrap RootHide): use the `iphoneos-arm64e` package.
 - Package managers: **Sileo** / **Zebra**.
 
 ### Grab the `.deb`
@@ -93,10 +92,6 @@ cd DePuke
 # Build rootless package
 make clean
 make package FINALPACKAGE=1 THEOS_PACKAGE_SCHEME=rootless
-
-# Build roothide package (requires roothide's Theos fork: https://github.com/roothide/theos)
-make clean
-make package FINALPACKAGE=1 THEOS_PACKAGE_SCHEME=roothide
 ```
 
 The compiled package will drop into the `packages/` directory ready to install via `make do` or AirDrop.
